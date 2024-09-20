@@ -20,10 +20,11 @@
 </div>
 <div align="left">
 This utility was built to test automated content translation workflows using MotionPoint Core’s proxy translation services. 
-
+<br/>
+<br/>
  <img src="https://github.com/tommydaltondev/motionpoint_api-utility_poc/blob/main/assets/img/motionpoint-api_dashboard.jpg" alt="Logo" width="100%">
-
-
+<br/>
+<br/>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
