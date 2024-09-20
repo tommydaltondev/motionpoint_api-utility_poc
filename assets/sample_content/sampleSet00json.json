@@ -1,0 +1,5 @@
+{
+    "CardOne": "MotionPoint's sandbox environment is a passive environment. When the first request is made, if the environment is not active, the application will return a 200 response, initiate the bootstrap process, and return the following message in the response:",
+    "CardTwo": "Typically, the bootstrapping process takes 60 to 90 seconds. For subsequent requests, the environment will already be in active mode and will receive responses to their translation job API requests immediately."
+    "CardThree": "The Sandbox API environment responds to translation requests with pseudo-translations. A pseudo- translation or pseudo-localization is the process of creating artificial text from input text for the purpose of testing software. Below is an example of a pseudo-translation:"
+}

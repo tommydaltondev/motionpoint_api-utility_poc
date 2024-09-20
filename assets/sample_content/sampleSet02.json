@@ -1,0 +1,5 @@
+{
+    "ParaOne": "The Sandbox API environment responds to translation requests with pseudo-translations. A pseudo- translation or pseudo-localization is the process of creating artificial text from input text for the purpose of testing software. Below is an example of a pseudo-translation",
+    "ParaTwo": "The production environment is always in active mode, thus not requiring a bootstrapping process. Sandbox credentials cannot be used in Production. Please contact your Project Manager to obtain access to the production environment."
+    "ParaThree": "Upon gaining access to the MotionPoint API, you will be assigned one or more queues which determine where your requests will be routed for translation. One queue will be assigned per language pair (source and target language combination). The queue’s identifier (also known as queue name) contains the source language code, target language code, and a unique API identifier, for example: EN.ES.1. The queue name may optionally include the target country code as well. For example, if the target country is Mexico, the queue name may be: EN.ES.MX.1"
+}

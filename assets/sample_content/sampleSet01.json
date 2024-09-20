@@ -1,0 +1,5 @@
+{
+    "MoreOne": "Translations are typically performed by human translators. The workflow for a translation job depends on the statuses of all translations for the given job. A job’s status is updated to COMPLETED once all content has been fully translated.",
+    "MoreTwo": "The API implements a callback notification system that automatically notifies customers as their translated content moves through various workflow steps with Callback Notification Events. A callback URL can be configured by providing a callback URL in the endpoint request."
+    "MoreThree": "The following types of files can be supported by the translation API. The content type in the API request must have the proper content type value that corresponds to the type of file that is uploaded for translation."
+}
