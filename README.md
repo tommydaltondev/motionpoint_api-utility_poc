@@ -13,7 +13,7 @@
 </div>
 
 
-## Translation Management Systems (TMS) 
+## Utility for MP Core Proxy Translation REST API
 
 <div align="center">
 <!-- <video src="https://github.com/tommydaltondev/motionpoint_api-utility_poc/blob/main/readme/MotionpointAPI-Dashboard.mp4" width="352" height="720"></video> -->
